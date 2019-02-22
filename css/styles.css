@@ -1,3 +1,5 @@
+/* Style for header */
+
 .wrapper {
 	width: 90%;
 	max-width: 960px;
@@ -42,6 +44,8 @@ header {
 	color: #444;
 }
 
+/* Style for booklist */
+
 #book-list ul {
 	list-style-type: none;
 	margin: 0;
@@ -75,6 +79,8 @@ header {
 #book-list .delete:hover {
 	background: #333;
 }
+
+/* Style for book add bar */
 
 #add-book {
 	width: 500px;
